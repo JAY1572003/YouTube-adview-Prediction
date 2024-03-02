@@ -1,6 +1,5 @@
 # YouTube-adview-Prediction
 
-# YouTube AdView Prediction Project
 
 ## Overview
 
