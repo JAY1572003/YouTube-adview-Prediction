@@ -8,7 +8,7 @@
 
 ## **Attribute Information:**
  ####                     'vidid’: Unique Identification ID for each video 
- ####                     'adview’: The number of ad views for each video   
+ ####                     'adview’: The number of adviews for each video   
  ####                     'views’: The number of unique views for each video
  ####                     'likes’: The number of likes for each video
  ####                     'dislikes’: The number of likes for each video
